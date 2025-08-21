@@ -11,6 +11,7 @@ Oddiy va samarali HTML + CSS + JavaScript yechimi: foydalanuvchi to‘lovni baja
 - 🖼 **FontAwesome ikonkalari** (masalan: dragon, fingerprint)
 - 🔗 **Bog‘lanish havolasi** — foydalanuvchini Telegram orqali admin bilan bog‘laydi
 - ⚡ **Oson sozlanadi** — JS orqali overlayni tezda yoqish/o‘chirish mumkin
+- 💻 Dasturchi Murod Primov
 
 ---
 
